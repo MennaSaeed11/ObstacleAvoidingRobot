@@ -15,16 +15,6 @@ The robot has functions for moving forward, backward, turning left, turning righ
 - Motors and wheels for the robot
 - Ultrasonic sensor (HC-SR04)
 
-## Commands
-
-The following commands can be sent via serial communication (e.g., Bluetooth terminal):
-
-- `F`: Move forward
-- `B`: Move backward
-- `L`: Turn left
-- `R`: Turn right
-- `S`: Stop
-
 ## Obstacle Avoidance
 
 The robot uses an ultrasonic sensor to detect obstacles in its path. If an obstacle is detected within 20 cm, the robot will stop, move backward, and then turn right to avoid the obstacle.
