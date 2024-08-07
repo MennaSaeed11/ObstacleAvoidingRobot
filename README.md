@@ -12,7 +12,7 @@ The robot has functions for moving forward, backward, turning left, turning righ
 - Arduino board (Uno)
 - Motor driver module (L298N)
 - Bluetooth module (HC-05)
-- Motors and wheels for the robot
+- DC Motors
 - Ultrasonic sensor (HC-SR04)
 
 ## Obstacle Avoidance
