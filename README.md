@@ -1,10 +1,9 @@
 # Robot Control Code with Ultrasonic Sensor
 
-This repository contains Arduino code for controlling a robot with motor drivers, Bluetooth control, and an ultrasonic sensor for obstacle detection.
+Arduino code for controlling a robot with motor drivers, and an ultrasonic sensor for obstacle detection.
 
 ## Description
 
-This Arduino sketch allows you to control a robot using serial commands sent over Bluetooth. 
 The robot has functions for moving forward, backward, turning left, turning right, and stopping. Additionally, it uses an ultrasonic sensor to detect obstacles and avoid collisions.
 
 ## Hardware Requirements
