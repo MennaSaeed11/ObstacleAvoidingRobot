@@ -1,4 +1,4 @@
-# Robot Control Code with Ultrasonic Sensor
+# Obstacle Avoiding Robot
 
 Arduino code for controlling a robot with motor drivers, and an ultrasonic sensor for obstacle detection.
 
