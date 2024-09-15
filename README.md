@@ -16,3 +16,6 @@ The robot has functions for moving forward, backward, turning left, turning righ
 ## Obstacle Avoidance
 
 The robot uses an ultrasonic sensor to detect obstacles in its path. If an obstacle is detected within 20 cm, the robot will stop, move backward, and then turn right to avoid the obstacle.
+
+## Circuit
+![Circuit](circuit.png)
